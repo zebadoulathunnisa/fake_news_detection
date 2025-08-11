@@ -33,4 +33,4 @@ Train the model using train_model.py
 
 Start the Flask app using app.py
 
-Open the browser at http://127.0.0.1:5000/ and test news articles
+http://127.0.0.1:5000/
